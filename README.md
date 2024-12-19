@@ -47,6 +47,7 @@ I'm a full-stack engineer with expertise in building scalable, secure web applic
 
 #### 👯 Check out some of my recent followers
 - [coder123](https://github.com/coder123)
+- [XiaomingX](https://github.com/XiaomingX)
 
 
 #### 💬 Feedback
