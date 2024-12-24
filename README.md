@@ -49,6 +49,10 @@ I'm a full-stack engineer with expertise in building scalable, secure web applic
 - [coder123](https://github.com/coder123)
 - [XiaomingX](https://github.com/XiaomingX)
 - [hiroyukikumazawa](https://github.com/hiroyukikumazawa)
+- [IDouble](https://github.com/IDouble)
+- [georg0st](https://github.com/george0st)
+- [JohnMwendwa](https://github.com/JohnMwendwa)
+- [IDouble](https://github.com/IDouble)
 
 
 #### 💬 Feedback
