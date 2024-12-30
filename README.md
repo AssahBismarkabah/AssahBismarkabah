@@ -71,6 +71,3 @@ Feel free to reach out, I'm always open to collaboration or a quick chat!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssahBismarkabah&layout=compact&langs_count=20&theme=algolia&hide=Jupyter%20Notebook"/>
 </a>
 </p>
-
-
-[![Visits](https://visitcount.itsvg.in/api?id=AssahBismarkabah&icon=1&color=1)](https://visitcount.itsvg.in)
