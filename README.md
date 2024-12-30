@@ -1,5 +1,4 @@
 # Assah Bismark - @AssahBismarkabah
----
 
 Full-Stack Software Engineer @adorsys
 
