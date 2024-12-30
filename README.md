@@ -73,4 +73,4 @@ Feel free to reach out, I'm always open to collaboration or a quick chat!
 </p>
 
 
-[visits][(https://visitcount.itsvg.in/api?id=AssahBismarkabah&icon=1&color=1)](https://visitcount.itsvg.in)
+[![Visits](https://visitcount.itsvg.in/api?id=AssahBismarkabah&icon=1&color=1)](https://visitcount.itsvg.in)
