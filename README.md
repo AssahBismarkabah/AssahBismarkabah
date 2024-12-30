@@ -1,5 +1,6 @@
-Assah Bismark - @AssahBismarkabah
-Full-Stack Software Engineer
+# Assah Bismark - @AssahBismarkabah
+---
+Full-Stack Software Engineer @adorsys
 
 Hi, welcome to my GitHub profile! 👋
 
