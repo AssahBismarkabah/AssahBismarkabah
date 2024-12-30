@@ -1,8 +1,13 @@
-### Fullstack Software Engineer
+Assah Bismark - @AssahBismarkabah
+Full-Stack Software Engineer
 
 Hi, welcome to my GitHub profile! 👋
 
-I'm a full-stack engineer with expertise in building scalable, secure web applications and modern CI/CD pipelines. My work spans across frontend, backend, and cloud infrastructures, leveraging tools like Docker, Kubernetes, React, Java EE, and Keycloak. Security and automation are my key focus areas, utilizing OAuth2, OpenID Connect, and best DevSecOps practices.
+In my professional journey, I specialize in building scalable and secure web applications, crafting modern CI/CD pipelines, and orchestrating robust cloud infrastructures. My expertise spans across frontend, backend, and containerized ecosystems with tools like Docker, Kubernetes, React, Java EE, and Keycloak.
+
+Security and automation are passions of mine, I'm committed to implementing OAuth2, OpenID Connect, and embracing the best DevSecOps practices to create resilient systems.
+
+In my free time, I love exploring new programming languages and technologies to push the boundaries of what I know. Let's build something incredible together!
 
 #### 🌱 My current projects
 - **[Employee Management Web Application](https://github.com/AssahBismarkabah/G-task)** - G-task is a complete Assigment Submission Application for the Global Infrastructural Service Student(GIS) to ease assigment submission and review of projects
@@ -56,7 +61,7 @@ I'm a full-stack engineer with expertise in building scalable, secure web applic
 
 
 #### 💬 Feedback
-Feel free to reach out—I'm always open to collaboration or a quick chat!
+Feel free to reach out, I'm always open to collaboration or a quick chat!
 
 #### 📈 Stats
 
