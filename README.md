@@ -65,7 +65,12 @@ In my free time, I love exploring new programming languages and technologies to 
 Feel free to reach out, I'm always open to collaboration or a quick chat!
 
 #### 📈 Stats
+<p align="center">
+<a href="https://github.com/sametcelikbicak">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AssahBismarkabah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssahBismarkabah&layout=compact&langs_count=20&theme=algolia&hide=Jupyter%20Notebook"/>
+</a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AssahBismarkabah&count_private=true&theme=tokyonight&show_icons=true)
 
-[![](https://visitcount.itsvg.in/api?id=AssahBismarkabah&icon=1&color=1)](https://visitcount.itsvg.in)
+[visits][(https://visitcount.itsvg.in/api?id=AssahBismarkabah&icon=1&color=1)](https://visitcount.itsvg.in)
