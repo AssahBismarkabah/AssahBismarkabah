@@ -30,12 +30,3 @@ If you want to support my work, consider [sponsoring me](https://github.com/spon
 
 **~** [_orhun.dev_](https://orhun.dev/)
 
-✨ Sponsored by:
-
-<a href="https://terminaltrove.com/" target="_blank">
-  <img src="https://blog.orhun.dev/sponsors/terminal_trove.png" alt="Terminal Trove" height="40">
-</a>
-
-<a href="https://rawkode.academy/" target="_blank">
-  <img src="https://blog.orhun.dev/sponsors/rawkode_academy.png" alt="Rawkode Academy" height="40">
-</a>
