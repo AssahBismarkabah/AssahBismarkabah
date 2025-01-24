@@ -12,17 +12,56 @@ I'm **Assah Bismark**, a passionate software engineer from Cameroon with experti
 
 Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
-Here is a list of my **projects**:
+Here is a list of my **projects ;
+**Bash, Zig, C, Go, Python, Kotlin, Java, JavaScript****:
 
-| **Bash, Zig, C, Go, Python, Kotlin, Java, JavaScript**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **Tils**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| • [Datasafe](https://github.com/adorsys/datasafe) - A Secure, Encrypted, and Versioned Data Storage Library  
-• [kc-cli](https://github.com/adorsys/keycloak-config-cli) - A Keycloak utility to ensure the desired configuration state for a Keycloak realm based on JSON/YAML  
-• [e2e-banking](https://github.com/ADORSYS-GIS/e2e-banking-app) - Comprehensive end-to-end banking application  
-• [Monitor Mind](https://github.com/ADORSYS-GIS/monitor-mind) - Automated System Monitoring Tool  
-• [release-script](https://github.com/adorsys/release-scripts) - Perform software releases synchronously in multi-module mono-repositories  
-• [report Sscrapy](https://github.com/ADORSYS-GIS/report-sscrap) - A Web Scraping Tool                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+<table><tr><td valign="top" width="33%">
 
+### projects
+<!-- recent_releases starts -->
+[Datasafe](https://github.com/adorsys/datasafe) - A Secure, Encrypted, and Versioned Data Storage Library
+
+[keycloak-angular-passkey](https://github.com/AssahBismarkabah/keycloak-mfa-passkey) - An angular client for passkey compatibility with keycloak
+
+[e2e-banking](https://github.com/ADORSYS-GIS/e2e-banking-app) - Comprehensive end-to-end banking application  
+
+[Monitor Mind](https://github.com/ADORSYS-GIS/monitor-mind) - Automated System Monitoring Tool 
+
+[llm-openrouter 0.3](https://github.com/simonw/llm-openrouter/releases/tag/0.3)
+
+[release-script](https://github.com/adorsys/release-scripts) - Perform software releases 
+
+[report Sscrapy](https://github.com/ADORSYS-GIS/report-sscrap) - A Web Scraping Tool  
+
+[Multiparty computing](https://github.com/AssahBismarkabah/multi-party-computing) - secure computation among multiple parties
+[network-watcher-cli](https://github.com/AssahBismarkabah/Spring-test-containers/releases/tag/20240409151421)
+
+
+
+</td><td valign="top" width="34%">
+
+
+
+### TIL
+<!-- tils starts -->
+• [Keycloak Config CLI: A Guide to Remote State Management](https://medium.com/@assahbismarkabah/keycloak-config-cli-a-guide-to-remote-state-management-03a2bcfdc27d)  
+
+
+• [Using Flocker Volumes with Kubernetes](https://medium.com/@assahbismarkabah/using-flocker-volumes-with-kubernetes-22fbd37b66d9)  
+• [Programmatically Access Postgres on Heroku](https://til.assahbismark.com/docs/Heroku/progratically-access-postgres/)  
+
+• [AWS Lambda: Deploying Python Web Apps](https://til.assahbismark.com/docs/awslambda/python-web-apps-deployments/)  
+
+• [Hacker News Documentation](https://til.assahbismark.com/docs/hacker-news/hacker-news/)  
+
+• [Jinja Autoescape Template](https://til.assahbismark.com/docs/jinja/autoescape-template.md/)  
+
+• [Reformatting Airtable JSON in Jinja](https://til.assahbismark.com/docs/jinja/reformatting-airtable-json/)                                                                                                                               
+
+<!-- tils ends -->
+More on [til.assahbismark.com](https://til.assahbismark.com/)
+</td></tr></table>
+                                             
 <center>
 
 Tip: Run `ssh git.assah.dev` to browse my repositories on your terminal.
