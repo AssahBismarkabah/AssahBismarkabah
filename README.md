@@ -1,91 +1,87 @@
-<img align="left" src="https://orhun.dev/img/crow.png">
+<img align="left" src="https://avatars.githubusercontent.com/u/86067227?v=4">
 
 ### Hey!
 
-I'm **Assah Bismark**, a passionate software engineer from Cameroon with expertise in full-stack development, DevOps, and security. I thrive in purpose-driven environments and love solving complex problems.
+I'm **Assah Bismark**, a Fullstack Engineer with a strong passion for building secure and scalable systems. I'm driven by purpose and enjoy exploring new technologies.
 
-[![Email](https://img.shields.io/badge/Email-Bismark.Assah%40adorsys.com-blue?style=flat-square)](mailto:Bismark.Assah@adorsys.com) [![Location](https://img.shields.io/badge/Location-Cameroon-green?style=flat-square)](#)
+[![views](https://komarev.com/ghpvc/?username=assahb&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/assahb) [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/The-Grindhouse/guidelines)
 
----
+<br>
 
-Ever since I started my software engineering journey, I’ve contributed to building secure and scalable applications. My current focus areas include:
+I've been actively contributing to software development, focusing on delivering robust solutions with a strong emphasis on security and performance.
 
-- **OAuth2** and **OpenID Connect** for secure authentication.
-- Developing cloud-native solutions using **Java**, **Spring Boot**, **Angular**, and **AWS**.
-- Mastering DevOps tools like **Docker**, **Kubernetes**, **GitLab**, and **GitHub Actions**.
-- Enhancing systems with encryption algorithms, vulnerability assessments, and security best practices.
+Here is a summary of my expertise and experience:
 
----
+| **Current Expertise**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Preferences & Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Career Level:** Professional <br> **Primary Role:** Fullstack Engineer <br> **Secondary Role:** DevOps Engineer <br> **Focus Areas:** OAuth2, OpenID-Connect, Security                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Preferences:** JVM, Keycloak, Java, node.js, DeFi <br> **Programming:** JavaScript, TypeScript, NodeJs, Html, CSS, Java, Rust <br> **Frameworks:** Spring Boot(java), ReactJs, Angular.js <br> **DevOps:** Gitlab, Github, Docker, Kubernetes (EKS, GKE), Multipass, Helm   |
 
-### **What I’m Currently Working On**
+<center>
 
-#### **Datasafe**
-- **Timeline:** March 2023 - Ongoing  
-- **Role:** Fullstack Engineer  
-- **Technologies:** Java, Spring Boot, Angular, AWS S3, Ceph, BouncyCastle  
-- **Responsibilities:**
-  - Writing and testing code.
-  - Updating to new Java/Spring versions.
-  - Implementing migration mechanisms.
-  - Enhancing encryption algorithms.
-  - Deploying applications to secure environments.
+Contact me via [Email](mailto:Bismark.Assah@adorsys.com) or [+237 679931141](tel:+237679931141)
 
-#### **Keycloak Config CLI**
-- **Timeline:** October 2024 - Ongoing  
-- **Role:** Backend Developer  
-- **Technologies:** Spring Boot, Testcontainers, GitHub Actions, Keycloak  
-- **Responsibilities:**
-  - Writing and refactoring code.
-  - Updating Keycloak CLI with the latest versions.
-  - Fixing bugs and improving maintainability.
+</center>
+<br>
 
----
+**\>\_** I'm currently focused on enhancing security, implementing migration mechanisms, and updating systems with the latest versions and best practices.
 
-### **My Professional Journey**
+I am based in Cameroon, and I am a member of the Incubation-Tribe. My native language is English, and I also have a basic level of French (A2). I have experience in Banking and Finance, and Security sectors. I am a critical thinker, a basketball lover, and purpose-driven.
 
-#### **adorsys GmbH & Co. KG**
-- **Role:** Associate Fullstack Software Engineer  
-- **Timeline:** September 2024 - Present  
-- **Key Contributions:**
-  - Developed new features and improved maintainability.
-  - Provided client support and ensured project success.
+For job related opportunities, feel free to reach out!
 
-#### **adorsys Training Program**
-- **Role:** GIS Cloud Software Engineer Trainee  
-- **Timeline:** 2023 - 2024  
+**~**  [bas]
 
-#### **University of Buea**
-- **Degree:** BSc. Computer Engineering (Faculty of Engineering and Technology)  
-- **Timeline:** 2022 - 2023  
+<br>
 
----
+**My Educational Background:**
 
-### **Skills**
+| Start | End | Institution, Company, or Training Provider  | Title and Description                                 |
+| :---- | :-- | :---------------------------------------- | :--------------------------------------------------- |
+| 2023  | 2024| adorsys                                  | GIS Cloud Software Engineering Training               |
+| 2022  | 2023| University of Buea (Faculty of Engineering And Technology) | BSc. Computer Engineering                               |
 
-| **Category**            | **Skills**                                                                                           |
-|--------------------------|------------------------------------------------------------------------------------------------------|
-| **Frontend**            | HTML5, CSS3, JavaScript (4), ReactJS (3), AngularJS (3), TailwindCSS (3), Bootstrap (3)             |
-| **Backend**             | Keycloak SPIs (5), Spring Boot (4), REST API (4), Microservices (4), JUnit (4), Mockito (4)          |
-| **DevOps**              | Docker (5), Kubernetes/Helm (5), CI/CD with Jenkins/GitHub Actions (4), GitLab (3), Bash (4)         |
-| **Databases**           | PostgreSQL (4), MySQL (3), MongoDB (3), H2 (3)                                                      |
-| **Other**               | OAuth2 (4), OpenID Connect (4), Security Best Practices (4), Vulnerability Assessment (3)            |
-| **Soft Skills**         | Critical Thinking (5), Problem Solving (4), Communication (4), Teamwork (4), Leadership (3)          |
+<br>
 
----
+**My Professional Background:**
 
-### **Current Preferences**
-- **Languages & Frameworks:** Java, Rust, Node.js, TypeScript, Spring Boot.
-- **DevOps Tools:** Docker, Kubernetes (EKS, GKE), Multipass, Helm.
-- **Focus Areas:** DeFi, JVM, Keycloak.
+| Start       | End     | Company             | Title                                 | Work Activities                                                    |
+| :---------- | :------ | :------------------ | :------------------------------------ | :----------------------------------------------------------------- |
+| 02 Sep 2024 | Ongoing | adorsys GmbH & Co. KG | Associate FullStack Software Engineer | code new features, test and improve maintainability, support clients |
 
----
+<br>
 
-### **Contact Me**
+**Skills:**
 
-📧 **Email:** [Bismark.Assah@adorsys.com](mailto:Bismark.Assah@adorsys.com)  
-📱 **Phone:** +237 679931141  
-🌐 **Location:** Cameroon  
+|              | Frontend             | Backend                     | DevOps                   | Databases           | Other technologies     | Soft skills                                 |
+|--------------|----------------------|-----------------------------|--------------------------|---------------------|-----------------------|--------------------------------------------|
+|              | Keycloak Theme Customization: 4 | Keycloak SPIs: 5       | Docker (Swarm, Compose): 5 | PostgreSQL: 4     | OAuth2: 4             | Critical thinking: 5                        |
+|              | HTML5, CSS3, JavaScript: 4  | Java EE: 4                 | Kubernetes / Helm: 5       | MySQL: 3            | OpenID Connect: 4     | Kanban: 4                                |
+|              | ReactJS: 3            | JUnit: 4                    | Docker & Kubernetes: 4    | MongoDB: 3          | GitHub: 4             | Scrum: 4                                    |
+|              | AngularJS:3            | Mockito: 4                  | CI/CD with Jenkins / Github Action: 4   | H2: 3               | Prompt Engineering: 4 | Problem Solving: 4                         |
+|              | Vite: 3              | Spring Boot:4               | Security Best Practices: 4|                     | Keycloack : 4        | Communication: 4                         |
+|              | TailwindCSS: 3         | Microservices: 4              | Bash:4                   |                     | Numpy: 3              | Teamwork: 4                             |
+|              | Bootstrap: 3         | REST API: 4               | AWS: 3                  |                     | Pandas: 3              | Adaptability: 4                             |
+|              | Redux: 2             |                               | Vulnerability Assessment: 3|                    | GitLab: 3              | Leadership: 3                             |
+|              |                     |                               |                        |                    | SAML: 3              | DrawIO / AppDiagram: 3                     |
+<br>
 
----
+**My Projects:**
 
-> I believe in continuous learning, collaboration, and building solutions that make a real impact. When I’m not coding, you can find me playing basketball or analyzing crypto charts.
+| Start       | End         | Company                                  | Title                                    | Work Activities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| :---------- | :---------- | :--------------------------------------- | :--------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 08 Jan 2024 | Ongoing     | Adorsys (Keycloak Development & Management)     | DevOps Engineer & Fullstack Developer | Developed and managed Keycloak configurations, Implemented OAuth2 and OpenID Connect protocols, Developed automation scripts to streamline Keycloak deployments and updates, Conducted security assessments and penetration testing to ensure the robustness of authentication mechanisms.  |
+| 07 Oct 2024 | Ongoing    | Adorsys keycloak-config-cli (bas)       |  Fullstack Developer                       | Implementing support for new Keycloak configuration options, Enhancing the merging logic for partial configurations, Adding validation for configuration files to catch errors early, Expanding the capabilities of the variable substitution, Implementing support for complex data structures in variables, Adding the ability to source variables from external systems (e.g., environment variables), Expanding the unit test coverage, Implementing integration tests with actual Keycloak instances, Creating a comprehensive set of test configurations to cover various scenarios|
+| 04 Mar 2024 | 30 Apr 2024 | Adorsys Datasafe (bas)                  | Backend Developer                        | Integrated RESTful APIs for seamless user interactions, Implemented robust security measures to protect user data, Conducted performance testing to ensure scalability and reliability.                                                                                                                                                                                                                                                               |
+| 04 Jul 2023 | 04 Sep 2023 | Adorsys (e2e-banking-app)                     | Fullstack Developer                        | Developed and implemented new features to enhance the application's functionality and user experience, Wrote clean, efficient, and well-tested code using Node.js, Implemented robust security measures to protect user data, Contributed to the development of a comprehensive testing suite.                                                                                                                                                                                                         |
+| 06 Mar 2023 | 02 Jan 2023 | Adorsys(Monitor Mind)                         | FullStack Developer                        | automate tool using flask, Python psutil library, add a user-friendly web interface, conducted testing , debugging                                                                                                                                                                                                                                                                                                                                   |
+| 02 Jan 2023 | 24 Jan 2023 | Adorsys(Release Script)                     | Backend Developer                        |  analiyzed and document  process of converting release script to python, collaborated with team members for seamless intergration                                                                                                                                                                                                                                                                                                                                 |
+| 02 Jan 2024 | 25 Jan 2023 | Adorsys(Report Sscrapy)                     | Fullstack Developer                        | Implementing the core scraping functionality using a Python, Developing report generation features using Pandas for data manipulation and Matplotlib or Plotly for visualization, Writing efficient and maintainable code following best practices and design patterns, Integrating with external APIs to fetch additional data, Setting up CI/CD pipelines for automated testing and deployment, Participating in code reviews to maintain code quality and share knowledge                                                                           |
+
+<br>
+**My Certificates and Professional Trainings:**
+
+| Year | Title and Description                            |
+| :--- | :--------------------------------------------- |
+| 2024 | 1Z0-811 - Oracle Java Foundation Certification  |
+| 2024 | Linux Professional Institute Certification 102 |
+| 2024 | Linux Professional Institute Certification 101 |
