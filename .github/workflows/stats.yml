@@ -22,8 +22,8 @@ jobs:
         shell: bash
         run: |
           if [[ "$(git status --porcelain)" != "" ]]; then
-            git config user.name 'Orhun Parmaksız'
-            git config user.email 'orhunparmaksiz@gmail.com'
+            git config user.name 'Assah Bismarkh'
+            git config user.email 'assah9799@@gmail.com'
             git add *.md
             git commit -m "Update README.md"
             git push

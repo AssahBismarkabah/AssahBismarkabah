@@ -2,40 +2,90 @@
 
 ### Hey!
 
-I'm **Orhun**, a Rust aficionado with a strong passion for all things open source. I love writing command-line tools.
+I'm **Assah Bismark**, a passionate software engineer from Cameroon with expertise in full-stack development, DevOps, and security. I thrive in purpose-driven environments and love solving complex problems.
 
-[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=545454&color=313131)](https://github.com/orhun.gpg) [![views](https://komarev.com/ghpvc/?username=orhun&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/orhun) [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/The-Grindhouse/guidelines)
+[![Email](https://img.shields.io/badge/Email-Bismark.Assah%40adorsys.com-blue?style=flat-square)](mailto:Bismark.Assah@adorsys.com) [![Location](https://img.shields.io/badge/Location-Cameroon-green?style=flat-square)](#)
 
-<br>
+---
 
-Ever since I joined GitHub **8** years ago, I pushed **27332** commits, opened **569** issues, submitted **1406** pull requests, received **18613** stars across **127** personal projects, and contributed to **243** public repositories.
+Ever since I started my software engineering journey, I’ve contributed to building secure and scalable applications. My current focus areas include:
 
-Here is a list of my **personal projects**:
+- **OAuth2** and **OpenID Connect** for secure authentication.
+- Developing cloud-native solutions using **Java**, **Spring Boot**, **Angular**, and **AWS**.
+- Mastering DevOps tools like **Docker**, **Kubernetes**, **GitLab**, and **GitHub Actions**.
+- Enhancing systems with encryption algorithms, vulnerability assessments, and security best practices.
 
-| **Rust**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Bash**, **Zig**, **C**, **Go**, **Python**, **Kotlin**, **Java**, **JS**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| • [git-cliff](https://github.com/orhun/git-cliff) - A highly customizable changelog generator<br>• [binsider](https://github.com/orhun/binsider) - A TUI for analyzing binaries like a boss<br>• [kmon](https://github.com/orhun/kmon) - Linux kernel manager and activity monitor<br>• [systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl<br>• [gpg-tui](https://github.com/orhun/gpg-tui) - Terminal user interface for GnuPG<br>• [rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service<br>• [menyoki](https://github.com/orhun/menyoki) - A tool for performing image operations on the command line<br>• [runst](https://github.com/orhun/runst) - A dead simple notification daemon for Linux<br>• [halp](https://github.com/orhun/halp) - A tool to get help with CLI tools<br>• [daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter<br>• [arch-repro-status](https://github.com/archlinux/arch-repro-status) - A tool for checking the reproducibility status of Arch Linux packages<br>• [godsays](https://github.com/orhun/godsays) - Rust port of the Terry Davis' (RIP) "god says" program<br>• [battleship-rs](https://github.com/orhun/battleship-rs) - Battleship game implemented in Rust<br>• [theattyr](https://github.com/orhun/theattyr) - A terminal theater for playing VT100 art and animations<br>• [ratatui-splash-screen](https://github.com/orhun/ratatui-splash-screen) - A Ratatui widget to turn any image to a splash screen<br>• [flawz](https://github.com/orhun/flawz) - A Terminal UI for browsing security vulnerabilities (CVEs) | • [CoolModFiles](https://github.com/orhun/CoolModFiles) - A web player that plays some cool MOD files randomly<br>• [linuxwave](https://github.com/orhun/linuxwave) - A tool for generating music from the entropy of Linux<br>• [kermit](https://github.com/orhun/kermit) - A VTE-based, simple and froggy terminal emulator<br>• [zps](https://github.com/orhun/zps) - A small utility for listing and reaping zombie processes<br>• [alpkg](https://github.com/orhun/alpkg) - A tool for setting up an Alpine Linux packaging environment<br>• [pkgtop](https://github.com/orhun/pkgtop) - Interactive package manager and resource monitor for Linux<br>• [grapheneX](https://github.com/grapheneX/grapheneX) - Automated system hardening framework<br>• [HydropotX](https://github.com/orhun/HydropotX) - Automated and self-contained hydroponics system<br>• [k3pler](https://github.com/orhun/k3pler) - Android network connection blocker and packet analyzer<br>• [RTLion](https://github.com/RTLion-Framework) - Multipurpose RTL-SDR framework for RTL2832 based DVB-T receivers<br>• [rtl_map](https://github.com/orhun/rtl_map) - A FFT-based visualizer for RTL-SDR devices<br>• [Picasso](https://github.com/orhun/Picasso) - PIC16F877A based 5V/20MHz development board and PIC programmer<br>• [dotfiles](https://github.com/orhun/dotfiles) - `/home/orhun/` |
+---
 
-<center>
+### **What I’m Currently Working On**
 
-Tip: Run `ssh git.orhun.dev` to browse my repositories on your terminal.
+#### **Datasafe**
+- **Timeline:** March 2023 - Ongoing  
+- **Role:** Fullstack Engineer  
+- **Technologies:** Java, Spring Boot, Angular, AWS S3, Ceph, BouncyCastle  
+- **Responsibilities:**
+  - Writing and testing code.
+  - Updating to new Java/Spring versions.
+  - Implementing migration mechanisms.
+  - Enhancing encryption algorithms.
+  - Deploying applications to secure environments.
 
-</center>
+#### **Keycloak Config CLI**
+- **Timeline:** October 2024 - Ongoing  
+- **Role:** Backend Developer  
+- **Technologies:** Spring Boot, Testcontainers, GitHub Actions, Keycloak  
+- **Responsibilities:**
+  - Writing and refactoring code.
+  - Updating Keycloak CLI with the latest versions.
+  - Fixing bugs and improving maintainability.
 
-**\>\_** Also, I am actively working on [Ratatui](https://ratatui.rs/) (a Rust library for creating TUIs) - where we work towards building the future of the terminal!
+---
 
-I maintain packages for and [Alpine Linux](https://pkgs.alpinelinux.org/packages?name=&branch=edge&repo=&arch=&maintainer=Orhun+Parmaks%C4%B1z) and [Arch Linux](https://archlinux.org/packages/?maintainer=orhun) btw. Check out my **dotfiles** [here](https://github.com/orhun/dotfiles). I regularly write [blog posts](https://blog.orhun.dev) about topics that pique my interest. For all my latest updates, follow me on [X](https://x.com/orhundev)/[Mastodon](https://fosstodon.org/@orhun). If you have **job-related** inquiries, please don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/orhunp/).
+### **My Professional Journey**
 
-If you want to support my work, consider [sponsoring me](https://github.com/sponsors/orhun)! 💖
+#### **adorsys GmbH & Co. KG**
+- **Role:** Associate Fullstack Software Engineer  
+- **Timeline:** September 2024 - Present  
+- **Key Contributions:**
+  - Developed new features and improved maintainability.
+  - Provided client support and ensured project success.
 
-**~** [_orhun.dev_](https://orhun.dev/)
+#### **adorsys Training Program**
+- **Role:** GIS Cloud Software Engineer Trainee  
+- **Timeline:** 2023 - 2024  
 
-✨ Sponsored by:
+#### **University of Buea**
+- **Degree:** BSc. Computer Engineering (Faculty of Engineering and Technology)  
+- **Timeline:** 2022 - 2023  
 
-<a href="https://terminaltrove.com/" target="_blank">
-  <img src="https://blog.orhun.dev/sponsors/terminal_trove.png" alt="Terminal Trove" height="40">
-</a>
+---
 
-<a href="https://rawkode.academy/" target="_blank">
-  <img src="https://blog.orhun.dev/sponsors/rawkode_academy.png" alt="Rawkode Academy" height="40">
-</a>
+### **Skills**
+
+| **Category**            | **Skills**                                                                                           |
+|--------------------------|------------------------------------------------------------------------------------------------------|
+| **Frontend**            | HTML5, CSS3, JavaScript (4), ReactJS (3), AngularJS (3), TailwindCSS (3), Bootstrap (3)             |
+| **Backend**             | Keycloak SPIs (5), Spring Boot (4), REST API (4), Microservices (4), JUnit (4), Mockito (4)          |
+| **DevOps**              | Docker (5), Kubernetes/Helm (5), CI/CD with Jenkins/GitHub Actions (4), GitLab (3), Bash (4)         |
+| **Databases**           | PostgreSQL (4), MySQL (3), MongoDB (3), H2 (3)                                                      |
+| **Other**               | OAuth2 (4), OpenID Connect (4), Security Best Practices (4), Vulnerability Assessment (3)            |
+| **Soft Skills**         | Critical Thinking (5), Problem Solving (4), Communication (4), Teamwork (4), Leadership (3)          |
+
+---
+
+### **Current Preferences**
+- **Languages & Frameworks:** Java, Rust, Node.js, TypeScript, Spring Boot.
+- **DevOps Tools:** Docker, Kubernetes (EKS, GKE), Multipass, Helm.
+- **Focus Areas:** DeFi, JVM, Keycloak.
+
+---
+
+### **Contact Me**
+
+📧 **Email:** [Bismark.Assah@adorsys.com](mailto:Bismark.Assah@adorsys.com)  
+📱 **Phone:** +237 679931141  
+🌐 **Location:** Cameroon  
+
+---
+
+> I believe in continuous learning, collaboration, and building solutions that make a real impact. When I’m not coding, you can find me playing basketball or analyzing crypto charts.
