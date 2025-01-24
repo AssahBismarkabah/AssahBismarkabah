@@ -2,13 +2,13 @@
 
 ### Hey!
 
-I'm **Assah Bismark**,a passionate software engineer from Cameroon with expertise in full-stack development, DevOps, and security. I thrive in purpose-driven environments and love solving complex problems.
+I'm **Orhun**, a Rust aficionado with a strong passion for all things open source. I love writing command-line tools.
 
-[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=545454&color=313131)](https://github.com/orhun.gpg) [![views](https://komarev.com/ghpvc/?username=AssahBismarkabah&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/AssahBismarkabah) [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/The-Grindhouse/guidelines)
+[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=545454&color=313131)](https://github.com/orhun.gpg) [![views](https://komarev.com/ghpvc/?username=orhun&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/orhun) [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/The-Grindhouse/guidelines)
 
 <br>
 
-Ever since I joined GitHub **8** years ago, I pushed **27332** commits, opened **569** issues, submitted **1406** pull requests, received **18613** stars across **127** personal projects, and contributed to **243** public repositories.
+Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 Here is a list of my **personal projects**:
 
@@ -26,5 +26,16 @@ Tip: Run `ssh git.orhun.dev` to browse my repositories on your terminal.
 
 I maintain packages for and [Alpine Linux](https://pkgs.alpinelinux.org/packages?name=&branch=edge&repo=&arch=&maintainer=Orhun+Parmaks%C4%B1z) and [Arch Linux](https://archlinux.org/packages/?maintainer=orhun) btw. Check out my **dotfiles** [here](https://github.com/orhun/dotfiles). I regularly write [blog posts](https://blog.orhun.dev) about topics that pique my interest. For all my latest updates, follow me on [X](https://x.com/orhundev)/[Mastodon](https://fosstodon.org/@orhun). If you have **job-related** inquiries, please don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/orhunp/).
 
+If you want to support my work, consider [sponsoring me](https://github.com/sponsors/orhun)! 💖
 
+**~** [_orhun.dev_](https://orhun.dev/)
 
+✨ Sponsored by:
+
+<a href="https://terminaltrove.com/" target="_blank">
+  <img src="https://blog.orhun.dev/sponsors/terminal_trove.png" alt="Terminal Trove" height="40">
+</a>
+
+<a href="https://rawkode.academy/" target="_blank">
+  <img src="https://blog.orhun.dev/sponsors/rawkode_academy.png" alt="Rawkode Academy" height="40">
+</a>
