@@ -19,24 +19,23 @@ Here is a list of my **projects ;
 
 ### projects
 <!-- recent_releases starts -->
-[Datasafe](https://github.com/adorsys/datasafe) - A Secure, Encrypted, and Versioned Data Storage Library
+• [Datasafe](https://github.com/adorsys/datasafe) - A Secure, Encrypted, and Versioned Data Storage Library
 
-[keycloak-angular-passkey](https://github.com/AssahBismarkabah/keycloak-mfa-passkey) - An angular client for passkey compatibility with keycloak
+• [keycloak-angular-passkey](https://github.com/AssahBismarkabah/keycloak-mfa-passkey) - An angular client for passkey compatibility with keycloak
 
-[e2e-banking](https://github.com/ADORSYS-GIS/e2e-banking-app) - Comprehensive end-to-end banking application  
+• [e2e-banking](https://github.com/ADORSYS-GIS/e2e-banking-app) - Comprehensive end-to-end banking application  
 
-[Monitor Mind](https://github.com/ADORSYS-GIS/monitor-mind) - Automated System Monitoring Tool 
+• [Monitor Mind](https://github.com/ADORSYS-GIS/monitor-mind) - Automated System Monitoring Tool 
 
-[llm-openrouter 0.3](https://github.com/simonw/llm-openrouter/releases/tag/0.3)
+• [llm-openrouter 0.3](https://github.com/simonw/llm-openrouter/releases/tag/0.3)
 
-[release-script](https://github.com/adorsys/release-scripts) - Perform software releases 
+• [release-script](https://github.com/adorsys/release-scripts) - Perform software releases 
 
-[report Sscrapy](https://github.com/ADORSYS-GIS/report-sscrap) - A Web Scraping Tool  
+• [report Sscrapy](https://github.com/ADORSYS-GIS/report-sscrap) - A Web Scraping Tool  
 
-[Multiparty computing](https://github.com/AssahBismarkabah/multi-party-computing) - secure computation among multiple parties
+• [Multiparty computing](https://github.com/AssahBismarkabah/multi-party-computing) - secure computation among multiple parties
 
-[network-watcher-cli](https://github.com/AssahBismarkabah/Spring-test-containers/releases/tag/20240409151421)
-
+• [network-watcher-cli](https://github.com/AssahBismarkabah/Spring-test-containers/releases/tag/20240409151421)
 
 
 
