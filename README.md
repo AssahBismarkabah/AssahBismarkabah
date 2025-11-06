@@ -66,10 +66,13 @@ More on [til.assahbismark.com](https://til.assahbismark.com/)
                                              
 <center>
 
+Tip: Run `ssh git.assah.dev` to browse my repositories on your terminal.
+
 </center>
 
+**\>\_** Also, I am actively working on [kc-cli](https://github.com/adorsys/keycloak-config-cli) ( a Keycloak utility to ensure the desired configuration state for a keycloak realm based on JSON/YAML) - where we Maintain, Refactor and develop new features with respect to (keycloak)[https://github.com/keycloak/keycloak] releases.
 
-**\>\_**   Check out my **tils(technical documentations)** [here](https://til.assahbismark.com). I regularly write about topics that pique my interest. For all my latest updates, follow me on [X](https://x.com/AssahBismark)/. If you have **job-related** inquiries, please don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/AssahBismark/).
+ Check out my **tils(technical documentations)** [here](https://til.assahbismark.com). I regularly write about topics that pique my interest. For all my latest updates, follow me on [X](https://x.com/AssahBismark)/. If you have **job-related** inquiries, please don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/AssahBismark/).
 
 If you want to support my work, consider [sponsoring me](https://github.com/sponsors/AssahBismarkabah)! 
 
