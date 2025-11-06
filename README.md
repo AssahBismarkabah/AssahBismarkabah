@@ -10,7 +10,7 @@ I'm **Assah Bismark**, a passionate software engineer from Cameroon with experti
 
 <br>
 
-Ever since I joined GitHub **1** years ago, I pushed **412** commits, opened **35** issues, submitted **65** pull requests, received **26** stars across **16** personal projects, and contributed to **7** public repositories.
+Ever since I joined GitHub **2** years ago, I pushed **846** commits, opened **59** issues, submitted **97** pull requests, received **35** stars across **31** personal projects, and contributed to **13** public repositories.
 
 Here is a list of my **projects ;
 **Bash, Zig, C, Go, Python, Kotlin, Java, JavaScript****:
@@ -46,20 +46,19 @@ Here is a list of my **projects ;
 
 ### TIL
 <!-- tils starts -->
-
-
-• [Solving the Context Problem - A Local RAG System for Code](https://til.assahbismark.com/docs/blog/A-Local-RAG-System-for-Code/)
-
-• [Mastering Keycloak Configuration with GitOps and keycloak-config-cli](https://til.assahbismark.com/docs/blog/Mastering%20Keycloak%20Configuration%20with%20GitOps%20and%20k%20223097268243802caf4ac4adb416134b/)
-
 • [Keycloak Config CLI: A Guide to Remote State Management](https://medium.com/@assahbismarkabah/keycloak-config-cli-a-guide-to-remote-state-management-03a2bcfdc27d)  
 
+
+• [Using Flocker Volumes with Kubernetes](https://medium.com/@assahbismarkabah/using-flocker-volumes-with-kubernetes-22fbd37b66d9)  
 • [Programmatically Access Postgres on Heroku](https://til.assahbismark.com/docs/Heroku/progratically-access-postgres/)  
 
-• [Programmatically Access Postgres](https://til.assahbismark.com/docs/blog/progratically-access-postgres/)  
+• [AWS Lambda: Deploying Python Web Apps](https://til.assahbismark.com/docs/awslambda/python-web-apps-deployments/)  
 
-• [Rust concurrency with Mandelbrot Set](https://til.assahbismark.com/docs/blog/rust-concurrency/)  
+• [Hacker News Documentation](https://til.assahbismark.com/docs/hacker-news/hacker-news/)  
 
+• [Jinja Autoescape Template](https://til.assahbismark.com/docs/jinja/autoescape-template.md/)  
+
+• [Reformatting Airtable JSON in Jinja](https://til.assahbismark.com/docs/jinja/reformatting-airtable-json/)                                                                                                                               
 
 <!-- tils ends -->
 More on [til.assahbismark.com](https://til.assahbismark.com/)
